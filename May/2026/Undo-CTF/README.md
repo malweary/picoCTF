@@ -23,6 +23,7 @@ For step 2, I knew that the appropriate command for reversing a string is rev, s
 **Step 3**
 
 Originally for step 3, I thought some iteration of sed would work, so i tried that. That was not the answer, so I took a peek at the hint on the site. It was expecting me to use tr for this.
+
 <img width="617" height="222" alt="Undo5" src="https://github.com/user-attachments/assets/fef3a044-d626-4751-ad66-09813571cbf2" />
 
 The correct command to replace dashes with underscores is tr ‘-’ ‘_’.
